@@ -5,7 +5,7 @@
 body {
 	font-family: "Lato", sans-serif;
 	color: #FFF;
-	background: linear-gradient(297deg, rgba(130,58,90,1) 19%, rgba(60,37,47,1) 35%, rgba(130,58,90,1) 57%, rgba(46,34,38,1) 83%);
+	background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
 	background-attachment: fixed;
 }
 .container {
