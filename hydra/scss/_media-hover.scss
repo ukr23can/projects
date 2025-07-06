@@ -1,0 +1,8 @@
+
+// Якщо курсор є
+@media (any-hover: hover),
+(pointer: fine) {}
+
+// Якщо курсору немає
+@media (any-hover: none),
+(pointer: coarse) {}
